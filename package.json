@@ -1,5 +1,5 @@
 {
-    "name": "Scheduled Player with Time Offset",
+    "name": "Scheduled Player + Time Offset",
     "author": "Rob Prouse <rob@10pm.studio>",
     "desc": "A schedulable playlist player with custom pages, plugins and animations",
     "repository": "https://github.com/Pro-Use/package-scheduled-player-offset",
