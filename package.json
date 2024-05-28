@@ -3,7 +3,7 @@
     "author": "Rob Prouse <rob@10pm.studio>",
     "desc": "A schedulable playlist player with custom pages, plugins and animations",
     "repository": "https://github.com/Pro-Use/package-scheduled-player-offset",
-    "version": "1.1",
+    "version": "1.2",
     "lifecycle": "production",
     "platforms": ["pi/epoch-1", "pi/epoch-2"],
     "runtime": {

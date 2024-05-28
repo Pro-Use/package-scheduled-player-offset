@@ -1259,6 +1259,8 @@ Vue.component('tile-option-time', TileOption.extend({
     styles: [
       [1, "Style 1"],
       [2, "Style 2"],
+      [3, "msmincho"],
+      [2, "ms-pgothic"],
     ],
     aligns: [
       ["center", "Centered"],
