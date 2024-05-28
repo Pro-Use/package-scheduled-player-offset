@@ -76,7 +76,7 @@ def update_devices():
 
 def send_clock(tz):
     utc_now = datetime.now(pytz.utc) + diff
-
+    utc_now = utc_now - timedelta(minutes=25, seconds=21)
     unix = timegm(utc_now.timetuple()) + utc_now.microsecond / 1000000.
     local_now = utc_now.astimezone(tz)
     # print >>sys.stderr, 'local now', local_now
